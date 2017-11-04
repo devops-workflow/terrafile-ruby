@@ -1,0 +1,13 @@
+tf-aws-vpc:
+ source:  "git@github.com:ITV/tf-aws-vpc"
+ version: "v0.1.1"
+tf-aws-iam:
+ source:  "git@github.com:ITV/tf-aws-iam"
+ version: "v0.1.0"
+tf-aws-sg:
+ source:  "git@github.com:ITV/tf-aws-sg"
+ version: "v1.3.1"
+tf-aws-asg:
+ source:  "git@github.com:ITV/tf-aws-asg"
+ version: "v2.0.0"
+ 
